@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1581710118 source:d:\users\reyes\desktop\p3_ejercicio_01\punto.cpp
+	"Punto.h"
+	<iostream>
+
+1581734937 d:\users\reyes\desktop\p3_ejercicio_01\punto.h
+
+1581734790 source:d:\users\reyes\desktop\p3_ejercicio_01\main.cpp
+	<iostream>
+	"Punto.h"
+	"Rectangulo.h"
+
+1581734961 d:\users\reyes\desktop\p3_ejercicio_01\rectangulo.h
+	<iostream>
+	<math.h>
+	"Punto.h"
+
